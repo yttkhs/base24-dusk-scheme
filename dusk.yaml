@@ -4,32 +4,29 @@ author: "Yuta Takahashi"
 variant: "dark"
 
 palette:
-  # 背景系 (暗→明)
-  base00: "1a1a1f"  # Default Background - 夜空
-  base01: "252530"  # Lighter Background - ステータスバー
-  base02: "3a3a45"  # Selection Background
-  base03: "5a5a65"  # Comments - 薄暗い
-  base04: "8a8a95"  # Dark Foreground
-  base05: "c5c5d0"  # Default Foreground - メインテキスト
-  base06: "e0e0e8"  # Light Foreground
-  base07: "f5f5fa"  # Lightest
+  base00: "0a0a0a"
+  base01: "151515"
+  base02: "252525"
+  base03: "454545"
+  base04: "707070"
+  base05: "b0b0b0"
+  base06: "d5d5d5"
+  base07: "f0f0f0"
 
-  # アクセント色
-  base08: "e06c75"  # Red - エラー
-  base09: "ff9f43"  # Orange - 定数・数値 ★メインアクセント
-  base0A: "ffd866"  # Yellow - クラス
-  base0B: "98c379"  # Green - 文字列
-  base0C: "56b6c2"  # Cyan - 正規表現
-  base0D: "61afef"  # Blue - 関数
-  base0E: "c678dd"  # Purple - キーワード
-  base0F: "be5046"  # Brown - 非推奨
+  base08: "c45050"
+  base09: "e89530"
+  base0A: "d4a520"
+  base0B: "8a9a4a"
+  base0C: "607070"
+  base0D: "607090"
+  base0E: "786080"
+  base0F: "8a6040"
 
-  # Base24拡張 (より暗い背景 + 明るいアクセント)
-  base10: "141418"  # Darker Background
-  base11: "0e0e12"  # Darkest Background
-  base12: "ff8b8b"  # Bright Red
-  base13: "ffb347"  # Bright Orange ★
-  base14: "b5e890"  # Bright Green
-  base15: "7fdbdb"  # Bright Cyan
-  base16: "7ec8f8"  # Bright Blue
-  base17: "d8a8f0"  # Bright Purple
+  base10: "050505"
+  base11: "020202"
+  base12: "e87070"
+  base13: "ffaa50"
+  base14: "a0b060"
+  base15: "708888"
+  base16: "7088a8"
+  base17: "907898"
